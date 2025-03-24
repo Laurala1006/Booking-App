@@ -18,5 +18,7 @@ Prioritized intuitive navigation and essential shopping features to enhance usab
 Technologies Used:
 
 Language: Swift
+
 Framework: SwiftUI
+
 Data Storage: Core Data for local data persistence
