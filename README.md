@@ -1,11 +1,11 @@
 # Booking-App
 iOS booking app 
 
-Project Description:
+● Project Description:
 
 Designed and developed a native iOS shopping application focused on providing a smooth browsing and purchasing experience from a user-centered perspective.
 
-Core Features and Pages:
+● Core Features and Pages:
 
 Authentication Page: Supports user registration and login to ensure secure access.
 
@@ -19,12 +19,12 @@ Cart Page: Allows users to manage selected items, modify quantities, and proceed
 
 Profile Page: Displays user information and purchase history records.
 
-Design Approach:
+● Design Approach:
 
 Focused on user experience by designing the interface and features from the perspective of an end-user.
 Prioritized intuitive navigation and essential shopping features to enhance usability and engagement.
 
-Technologies Used:
+● Technologies Used:
 
 Language: Swift
 
