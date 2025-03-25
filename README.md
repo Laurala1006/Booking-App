@@ -1,5 +1,5 @@
-# Booking-App
-iOS booking app 
+# Shopping-App
+iOS Shopping app 
 
 ● Project Description:
 
